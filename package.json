@@ -22,8 +22,15 @@
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "http": "^0.0.1-security",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.4.0",
+    "mssql": "^8.0.2",
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
   }
 }
